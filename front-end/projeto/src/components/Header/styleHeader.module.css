@@ -1,0 +1,22 @@
+.header {
+  background: #222;
+  color: red;
+  padding: 1rem;
+}
+.header nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+.header nav a {
+  color: white;
+  text-decoration: none;
+}
+.header nav a:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=styleHeader.module.css.map */
